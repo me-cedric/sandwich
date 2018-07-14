@@ -1,5 +1,4 @@
 @charset "UTF-8";
 
-@import "components/variables";
-// Reset
-@import "components/normalize";
+@import "init/_all";
+@import "normal/_all";

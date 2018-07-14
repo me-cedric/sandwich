@@ -19,7 +19,9 @@
     "dev": "grunt monitor",
     "test": "grunt travis --verbose"
   },
-  "dependencies": {},
+  "dependencies": {
+    "sass-convert": "^0.5.2"
+  },
   "engine": "node >= 6",
   "devDependencies": {
     "autoprefixer": "^7.1.1",
